@@ -1,0 +1,18 @@
+.navbar-header{
+    color:green;
+    font-weight: bolder;
+    font-size:50px;
+}
+.nav-link{
+    color:rgb(11,11,11);
+}
+.about-img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.carousel-inner img{
+    height:400px;
+}
